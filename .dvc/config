@@ -2,4 +2,4 @@
     analytics = false
     remote = data
 ['remote "data"']
-    url = gs://mlops-guide-db90-1792378986/dvcstore
+    url = gs://mlops-guide-perso-1792381102/dvcstore
